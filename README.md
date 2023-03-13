@@ -30,13 +30,13 @@ I'm Quang Nguyen a Full Stack Web Developer. I Spend most of time working with N
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhquang1988)](https://github.com/thanhquang1988)
-```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=thanhquang1988&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
