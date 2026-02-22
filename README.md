@@ -9,7 +9,7 @@ I'm Quang Nguyen a Full Stack Web Developer. I Spend most of time working with N
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently available for job
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "Fixing: "`
 - 📫 How to reach me: thanhquang1988@gmail.com.
 - ⚡ Fun fact: I play games CS:GO, watching video sometime.
 
